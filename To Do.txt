@@ -1,0 +1,20 @@
+
+Monday:
+How many US as of monday from dev
+How many US from Mohit
+How many US ready for demo
+
+
+Doc-4525 - 2 Days for 5 Scenarios
+DOC-4945 - 1 days for 11 Scen ( Steps are missing)
+Doc-4946 - 2 days for 12Scen(Steps are missing)
+
+
+16 by friday
+
+
+Everyday QA Open Bugs
+Everyday Prod Open Bugs
+https://docklyne.atlassian.net/issues/?filter=10121
+
+
