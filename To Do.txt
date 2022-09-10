@@ -5,9 +5,9 @@ How many US from Mohit
 How many US ready for demo
 
 
-Doc-4525 - 2 Days for 5 Scenarios
-DOC-4945 - 1 days for 11 Scen ( Steps are missing)
-Doc-4946 - 2 days for 12Scen(Steps are missing)
+- 2 Days for 5 Scenarios
+- 1 days for 11 Scen ( Steps are missing)
+- 2 days for 12Scen(Steps are missing)
 
 
 16 by friday
@@ -15,6 +15,6 @@ Doc-4946 - 2 days for 12Scen(Steps are missing)
 
 Everyday QA Open Bugs
 Everyday Prod Open Bugs
-https://docklyne.atlassian.net/issues/?filter=10121
+
 
 
