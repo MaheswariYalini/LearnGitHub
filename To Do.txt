@@ -1,8 +1,8 @@
 
 Monday:
 How many US as of monday from dev
-How many US from Mohit
-How many US ready for demo
+How many US from 
+How many US ready 
 
 
 - 2 Days for 5 Scenarios
